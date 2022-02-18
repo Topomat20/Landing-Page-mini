@@ -7,7 +7,7 @@ In this mini-project, I will build a landing page using HTML and CSS.
 ### Dependencies
 * None
 ### Installing
-* None
+* https://topomat20.github.io/Landing-Page-mini/
 ### Executing program
 * It's done when the page uses semantic HTML elements.
 
